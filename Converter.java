@@ -1,1 +1,1 @@
-clacc Converter {
+clacc Converter {}
